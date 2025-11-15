@@ -66,3 +66,8 @@ I have acne so I have some dietary restrictions on what I can eat because it fee
 The other day I asked ChatGPT to help me pick some good late night snacks or movie snacks that won't make my acne worse and it helped me pick some solid snacks.
 
 https://chatgpt.com/share/690df4c0-0d34-8007-8347-91e22b36b412
+
+Week 9
+This week I used ChatGPT to debug my code for one of the problems from our weekly exercises.
+
+https://chatgpt.com/share/6918ef7a-d380-8007-97b3-fbe809645529
