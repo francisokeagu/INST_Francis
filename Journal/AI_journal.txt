@@ -71,3 +71,9 @@ Week 9
 This week I used ChatGPT to debug my code for one of the problems from our weekly exercises.
 
 https://chatgpt.com/share/6918ef7a-d380-8007-97b3-fbe809645529
+
+Week 10
+This week I had an exam in STAT100 and used ChatGPT to brush up on some topics that I was confused about.
+I used it to learn more about sample means vs population mean, and the consequent standard deviations.
+
+https://chatgpt.com/share/692320f6-9ac8-8007-b260-a11e3565dcc2
